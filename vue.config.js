@@ -13,7 +13,6 @@ module.exports = defineConfig({
       '/api': {
         target: 'http://gmall-h5-api.atguigu.cn',
         changeOringin: true
-
       }
     }
   }
